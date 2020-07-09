@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f9be3e</color>
+    <color name="colorPrimaryDark">#C7920F</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="editTextBackground">#727373</color>
+    <color name="black_gray">#474337</color>
+    <color name="gray">#C7C6C6</color>
+    <color name="cancel_gray">#ABABAB</color>
+    <color name="submit_red">#EE1A32</color>
+    <color name="red">#EE1A32</color>
+    <color name="yellow">#f9be3e</color>
+    <color name="bg_white">#FAFAFA</color>
+    <color name="black">#000000</color>
+    <color name="white">#fff</color>
+    <color name="red_text">#DD2C27</color>
+    <color name="green">#00ff00</color>
+    <color name="dark_green">#026D02</color>
+    <color name="resend_otp_btn">#A29F9F</color>
+    <color name="profile_background">#E9EAEE</color>
+</resources>
